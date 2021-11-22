@@ -1,0 +1,92 @@
+.div1{
+width: 100%;
+height: 150px;
+background-color: #9370DB;
+border: 1px solid;
+border-color:white;;
+}
+.div2{
+ width: 49%;
+ height: 500px;
+ background-color: #9370DB;
+ float : left;
+ border: 1px solid;
+border-color:white;;
+}
+.div3{
+width: 50%;
+height: 500px;
+float : right;
+border: 1px solid;
+border-color:white;;
+}
+.div4{
+width: 100%;
+height: 500px;
+background-color: #9370DB;
+float : left;
+border: 1px solid;
+border-color:white;;
+}
+.button1{
+width: 33%;
+border: 33% solid;
+border-color:white;
+float : left;
+background-color: rgb(245, 221, 84);
+height: 80px;
+}
+.button2{
+width: 33%;
+border: 33% solid;
+border-color:white;
+float : left;
+background-color: brown;
+height: 80px;
+}
+.button3{
+width: 34%;
+border: 33% solid;
+border-color: white;
+float : right; 
+background-color: rgb(238, 96, 96);
+height: 80px;
+}
+.Sortinhozz{
+color : white;
+}
+.Sabor{
+color : white;
+    }
+.Sabor1{
+color : white;
+        }
+.Escolha{
+color : white;
+}
+.ice1{
+float : left;
+width : 150px;
+    }
+.ice2{
+float : right;
+width : 150px;
+}
+.logo{
+width : 200px;    
+}
+.text1{
+color : white;
+}
+.button4{
+width : 34%;
+height : 80px;
+border: 33% solid;
+border-color: white;    
+}
+.button5{
+width : 34%;
+height : 80px;
+border: 33% solid;
+border-color: white;   
+    }
